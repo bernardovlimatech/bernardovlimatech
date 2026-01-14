@@ -1,15 +1,20 @@
 <h1>Hi, I'm Bernardo! <br/><a href="https://github.com/bernardovlimatech"></a><a href="https://www.linkedin.com/in/bernardo-lima-3281573a6/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>📜🛡️ Resume and Certifications</h2>
 
-- <b>Resume and Certifications</b>
   - [Professional Statement](https://docs.google.com/document/d/1NofLPxX5y1Gf2vT6_3FpEB_uL_Mf64Bvy-Xf5KXShgU/edit?usp=sharing)
+  - [Resume](https://docs.google.com/document)
+  - Certifications</b>
+  - [Topic](https://)
+
+<h2>👨‍💻 Projects:</h2>
+
 - <b>Topic</b>
   - [Topic](https://github.com/)
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
+- [Video](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
