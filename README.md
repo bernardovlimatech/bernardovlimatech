@@ -2,10 +2,11 @@
 
 <h2>📜🛡️ Resume and Certifications</h2>
 
-  - [Professional Statement](https://docs.google.com/document/d/1NofLPxX5y1Gf2vT6_3FpEB_uL_Mf64Bvy-Xf5KXShgU/edit?usp=sharing)
-  - [Resume](https://docs.google.com/document)
-  - Certifications</b>
-  - [Topic](https://)
+  - <b>Resume</b> 
+    - [Professional Statement](https://docs.google.com/document/d/1NofLPxX5y1Gf2vT6_3FpEB_uL_Mf64Bvy-Xf5KXShgU/edit?usp=sharing)
+    - [Resume](https://docs.google.com/document)
+  - <b>Certifications</b>
+    - [Topic](https://)
 
 <h2>👨‍💻 Projects:</h2>
 
