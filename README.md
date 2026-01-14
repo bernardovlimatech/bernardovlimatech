@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bernardo! <br/><a href="https://github.com/bernardovlimatech"></a><a href="https://www.linkedin.com/in/bernardo-lima-3281573a6/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Bernardo de Araujo Lima! <br/><a href="https://github.com/bernardovlimatech"></a><a href="https://www.linkedin.com/in/bernardo-lima-3281573a6/">Cybersecurity Professional</a></h1>
 
 <h2>📜🛡️ Resume and Certifications</h2>
 
