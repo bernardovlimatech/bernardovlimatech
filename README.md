@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Topic</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>Resume and Certifications</b>
+  - [Professional Statement](https://docs.google.com/document/d/1NofLPxX5y1Gf2vT6_3FpEB_uL_Mf64Bvy-Xf5KXShgU/edit?usp=sharing)
 - <b>Topic</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
 - <b>Topic</b>
