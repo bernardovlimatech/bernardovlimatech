@@ -3,25 +3,25 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Topic</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Topic</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
 - <b>Topic</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
 - <b>Topic</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BernardoLima | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="BernardoLima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://wwww.youtube.com/@BernardoLima-m5k
-[linkedin]: https://wwww.linkedin.com/in/bernardo-lima-3281573a6/
+[youtube]: https://www.youtube.com/channel/UCKAn-DPs_nvPtbDId_3L5cQ
+[linkedin]: https://www.linkedin.com/in/bernardovlimatech/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
