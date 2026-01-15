@@ -19,8 +19,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BernardoLima | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="BernardoLima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BernardoLima | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
+[<img align="left" alt="BernardoLima | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCKAn-DPs_nvPtbDId_3L5cQ
 [linkedin]: https://www.linkedin.com/in/bernardovlimatech/
